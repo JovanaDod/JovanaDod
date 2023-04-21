@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there , I'm Jovana 👋 
+
+### Front-End Developer
 
 - 🔭 I’m currently working on 
 JavaScript and preparing to learn React after that
