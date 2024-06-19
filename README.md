@@ -1,5 +1,5 @@
 ### Hi there , I'm Jovana 👋 
-Developer (https://github.com/JovanaDod)
+ (https://github.com/JovanaDod)
 
 🌱 Currently working on my first project with React.js
 - Food App
