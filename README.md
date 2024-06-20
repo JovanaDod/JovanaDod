@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Front-End Developer Projects:
 [CreativeHub Webpage - First Static Web Project](https://github.com/JovanaDod/First-html-project-CH)
-- HTML, CSS, Bootstrap
+- HTML, CSS, Bootstrap [https://github.com/JovanaDod/staticWeb.git]
 - JavaScript
 - https://github.com/JovanaDod/JavaScript-Project-
 
